@@ -30,7 +30,6 @@ const STRETCHES: Stretch[] = [
       "slowly release and repeat",
     ],
     target: "neck & cervical spine",
-    emoji: "",
   },
   {
     id: "chest-opener",
@@ -44,7 +43,6 @@ const STRETCHES: Stretch[] = [
       "lift hands slightly and hold",
     ],
     target: "chest & shoulders",
-    emoji: "",
   },
   {
     id: "thoracic-extension",
@@ -58,7 +56,6 @@ const STRETCHES: Stretch[] = [
       "breathe deeply and hold",
     ],
     target: "thoracic spine",
-    emoji: "",
   },
   {
     id: "shoulder-rolls",
@@ -72,7 +69,6 @@ const STRETCHES: Stretch[] = [
       "let your arms hang loose after",
     ],
     target: "upper traps & neck",
-    emoji: "",
   },
   {
     id: "cat-cow",
@@ -86,7 +82,6 @@ const STRETCHES: Stretch[] = [
       "flow slowly with your breath",
     ],
     target: "full spine",
-    emoji: "",
   },
 ];
 
